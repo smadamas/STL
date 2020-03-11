@@ -1,0 +1,18 @@
+﻿  Combat.cpp
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Combat.cpp(35,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Combat.cpp(102,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Combat.cpp(118,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Combat.cpp(161,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Combat.cpp(180,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Combat.cpp(223,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ship.cpp
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(208,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(218,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(223,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(228,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(233,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(238,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Visual Studio\STL\STL\Ship.cpp(255,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  STL.vcxproj -> C:\Users\Owner\Desktop\Visual Studio\STL\Debug\STL.exe
